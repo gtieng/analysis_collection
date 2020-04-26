@@ -8,3 +8,5 @@ Please visit the URLs below to view various demonstrations of Data Analysis proj
 - [Analysis of Two Employee Exit Survey Datasets (Data Cleaning and Joins)](https://github.com/gtieng/analysis_collection/blob/master/exitsurvey_datajoining.ipynb)
 - [Identifying New Markets to Reach New Coders (Selecting Means and Outliers)](https://github.com/gtieng/analysis_collection/blob/master/bestmarkets_newcoders.ipynb)
 - [Designing the Core Logic for a Gambling Addiction Mobile App (Statistics & Probability)](https://github.com/gtieng/analysis_collection/blob/master/lottery_stats.ipynb)
+- [Building an SMS Spam Filter Based on the Multinomial Naive Bayes Algorithm From 
+Scratch (Conditional Probabilities)](https://github.com/gtieng/analysis_collection/blob/master/SMSspamfilter.ipynb)
